@@ -1,0 +1,15 @@
+{
+    "version": "0.8.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nickalie/nclaw/releases/download/v0.8.6/nclaw_0.8.6_windows_amd64.zip",
+            "bin": [
+                "nclaw.exe"
+            ],
+            "hash": "a763e76872f9418debcb83c3c764c7d5e27bc5c9fc9b64afb8cf4e4e40c94659"
+        }
+    },
+    "homepage": "https://github.com/nickalie/nclaw",
+    "license": "MIT",
+    "description": "Telegram bot wrapping Claude Code CLI"
+}
