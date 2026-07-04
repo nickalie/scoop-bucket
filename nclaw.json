@@ -1,12 +1,12 @@
 {
-    "version": "0.15.0",
+    "version": "0.16.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nickalie/nclaw/releases/download/v0.15.0/nclaw_0.15.0_windows_amd64.zip",
+            "url": "https://github.com/nickalie/nclaw/releases/download/v0.16.0/nclaw_0.16.0_windows_amd64.zip",
             "bin": [
                 "nclaw.exe"
             ],
-            "hash": "0d3e3342f533e08770dee480e62fd305f77f5bf0e7aa54bdd081076bd457d8ac"
+            "hash": "bb62c17e114a965bb44b0200a6991349fd91028de9dbd77197a3b0b4f1d07ac7"
         }
     },
     "homepage": "https://github.com/nickalie/nclaw",
